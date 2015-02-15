@@ -12,7 +12,7 @@ First, clone the repo...
 
 `git clone git@github.com:johnthethird/react-starter-template.git`
 
-Then install the npm and bower modules
+Then install the npm
 
 ```
 $ npm install
