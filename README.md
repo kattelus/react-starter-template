@@ -16,12 +16,11 @@ Then install the npm and bower modules
 
 ```
 $ npm install
-$ bin/bower install
 ```
 
 start server
 ```
-$ bin/gulp dev
+$ npm start
 ```
 
 then go to http://localhost:4000/index.html
